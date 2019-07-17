@@ -1,0 +1,3 @@
+C:\Users\dahua\source\repos\DockerWeb_Test\DockerWeb_Test\obj\Debug\netcoreapp2.2\DockerWeb_Test.csproj.CoreCompileInputs.cache
+C:\Users\dahua\source\repos\DockerWeb_Test\DockerWeb_Test\obj\Debug\netcoreapp2.2\DockerWeb_Test.AssemblyInfoInputs.cache
+C:\Users\dahua\source\repos\DockerWeb_Test\DockerWeb_Test\obj\Debug\netcoreapp2.2\DockerWeb_Test.AssemblyInfo.cs
